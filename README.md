@@ -1,2 +1,1 @@
-# e-commerce-project
- https://mahfuja-masuma.github.io/managementproject/
+https://mahfuja-masuma.github.io/managementproject/
